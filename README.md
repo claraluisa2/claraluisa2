@@ -1,5 +1,13 @@
-## Hi there 👋
+## Olá! ✨
 
+Sou a Clara Luísa, estudante de Engenharia da Computação e leitora nas horas vagas. Comecei na área da tecnologia com o Desenvolvimento Web, mas hoje também adoro estudar sobre IA e Dados.  
+
+##
+<div>
+<a href="https://github.com/claraluisa2">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=claraluisa2&show_icons=true&theme=dracula&include_commits=true"/>
+</a>
+<div/>
 <!--
 **claraluisa2/claraluisa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
