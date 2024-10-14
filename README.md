@@ -3,6 +3,15 @@
 Sou a Clara Luísa, estudante de Engenharia da Computação e leitora nas horas vagas. Comecei na área da tecnologia com o Desenvolvimento Web, mas hoje também adoro estudar sobre IA e Dados.  
 
 ##
+
+🚀 Linguagens e Ferramentas:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+##
 <div>
 <a href="https://github.com/claraluisa2">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=claraluisa2&show_icons=true&theme=dracula&include_commits=true"/>
