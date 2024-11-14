@@ -1,7 +1,6 @@
 ## Olá! ✨
 
-Sou a Clara Luísa, estudante de Engenharia da Computação e leitora nas horas vagas. Comecei na área da tecnologia com o Desenvolvimento Web, mas hoje também adoro estudar sobre IA e Dados.  
-
+Sou a Clara Luísa, estudante de Engenharia da Computação e leitora nas horas vagas. Sou apaixonada por tecnologia e completamente fascinada em aprender coisas novas, estou atualmente me dedicando a desenvolver habilidades na área de dados. 
 ##
 
 🚀 Linguagens e Ferramentas:
