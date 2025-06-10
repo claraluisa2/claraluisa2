@@ -1,6 +1,6 @@
-## Olá! ✨
+## Olá! Sou a Clara ✨
 
-Sou a Clara Luísa, estudante de Engenharia da Computação e leitora nas horas vagas. Sou apaixonada por tecnologia e completamente fascinada em aprender coisas novas, estou atualmente me dedicando a desenvolver habilidades na área de dados. 
+Engenharia da Computação | Aprendendo, testando e criando com código.
 ##
 
 🚀 Linguagens e Ferramentas:
